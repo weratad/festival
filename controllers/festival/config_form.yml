@@ -1,0 +1,9 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Model Form Field configuration
+form: $/flosch/slideshow/models/slideshow/fields.yml
+
+# Model Class name
+modelClass: Flosch\Slideshow\Models\Slideshow
